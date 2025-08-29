@@ -43,7 +43,7 @@ Tables, Figures, Listings for clinical trial reporting.
 
 📧 Email: muzakkiransari001@gmail.com
 
-💼 LinkedIn: LinkedIn
+💼 LinkedIn:
 https://www.linkedin.com/in/muzakkir-ansari-054b03364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 ⚠️ Note: All datasets in my projects are synthetic, created for learning purposes only. No real patient data is used.
