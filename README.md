@@ -27,7 +27,7 @@ Soft Skills: Critical Thinking, Teamwork, Communication
 
 📂 Featured Projects
 
-🔹 📊 SAS Data Cleaning Project
+🔹 📊 SAS Data Cleaning Project ( https://github.com/muzakkiransari01/Clinical_Sas_Projects?tab=readme-ov-file#clinical_sas_projects )
 
 End-to-end cleaning & analysis of healthcare data (Patients + Encounters).
 
