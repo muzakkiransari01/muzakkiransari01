@@ -27,14 +27,11 @@ Soft Skills: Critical Thinking, Teamwork, Communication
 
 📂 Featured Projects
 
-🔹 📊 SAS Data Cleaning & Analysis Project [ https://github.com/muzakkiransari01/Patient-Encounters-Data-Cleaning-Integration-and-Analysis-using-SAS ]
-    End-to-end cleaning & analysis of healthcare data (Patients + Encounters).
+🔹  Clinical SAS Project 3 - SAS Data Cleaning & Analysis Project [ https://github.com/muzakkiransari01/Patient-Encounters-Data-Cleaning-Integration-and-Analysis-using-SAS ] End-to-end cleaning & analysis of healthcare data (Patients + Encounters).
 
-🔹 💊 Adverse Events (AE) Data Cleaning & Derivation [ https://github.com/muzakkiransari01/Adverse-Events-AE-Data-Cleaning-Derivation ]
-       Standardizing AE terms, deriving severity, and summary reporting.
+🔹 Clinical SAS Project 2 - Adverse Events (AE) Data Cleaning & Derivation [ https://github.com/muzakkiransari01/Adverse-Events-AE-Data-Cleaning-Derivation ] Standardizing AE terms, deriving severity, and summary reporting.
 
-🔹 📑 Clinical SAS Project 3 – Laboratory Data Cleaning and TLFs [ TFLs Project](https://github.com/muzakkiransari01/Laboratory-Data-Cleaning-and-TLF-Generation ]
-       Tables, Figures, Listings for clinical trial reporting.
+🔹 Clinical SAS Project 3 - Laboratory Data Cleaning and TLFs [ TFLs Project](https://github.com/muzakkiransari01/Laboratory-Data-Cleaning-and-TLF-Generation ] Tables, Figures, Listings for clinical trial reporting.
 
 📫 Connect With Me
 
